@@ -28,6 +28,8 @@ public class exercício2 {
 				System.out.printf("Peso atual: %.2f Kg's", weight);
 				System.out.printf("\nSe a pessoa engordar 15%% ficará com: %.2f kg's", fatWeight);
 				System.out.printf("\nSe emagrecer 20%% ficará com: %.2f Kg's\n", tinWeight);
+				
+				input.close();
 			}
 		}
 		
